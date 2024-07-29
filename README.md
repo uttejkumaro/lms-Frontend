@@ -24,6 +24,26 @@
 ```
     npm run dev
 ```
+### How to setup tailwand in your  project 
+
+1.install tailwand and other dependencies 
+
+ ```
+ npm install  -D tailwindcss postcss autoprefixer
+
+ ```
+ 2.create a postcss.config.js file
+
+ ```
+ npx tailwindcss init -p
+ ```
+
+ 
+
+
+
+
+
 
 
 
